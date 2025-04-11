@@ -8,6 +8,7 @@ of image files. All files will need to be downloaded for the game to work.
 To run the game, one would obviously need GW-Basic as well as Dosbox or a similar
 dos emulator.
 
-The game is provided free, but if you like the game please consider purchasing the
+The remake is provided free, but if you like the game please consider purchasing the
 original game.
 
+For a walkthrough of the remake, please see https://youtu.be/7QThOZ2tAiM
